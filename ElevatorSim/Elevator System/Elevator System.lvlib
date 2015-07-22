@@ -63,8 +63,7 @@
 		<Item Name="EoTDetect.vi" Type="VI" URL="../Private/EoTDetect.vi"/>
 		<Item Name="Sensor Loop.vi" Type="VI" URL="../Private/Sensor Loop.vi"/>
 		<Item Name="Generate 1D Motion Profile.vi" Type="VI" URL="../Private/Generate 1D Motion Profile.vi"/>
-	</Item>
-	<Item Name="Elevator Control Loop - Motion Profile.vi" Type="VI" URL="../Private/Elevator Control Loop - Motion Profile.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Elevator Control Loop - Motion Profile.vi" Type="VI" URL="../Private/Elevator Control Loop - Motion Profile.vi"/>
+		<Item Name="Binary Search 1D Array.vi" Type="VI" URL="../Private/Binary Search 1D Array.vi"/>
 	</Item>
 </Library>
